@@ -1,5 +1,5 @@
-```
-#Finance tracker
+
+# Finance tracker
 
 An intuitive desktop application for managing personal finances, built with Python. It allows users to monitor income and expenses, providing a clear, real-time overview of the total balance.
 
@@ -17,4 +17,3 @@ Automatic data saving using a local database (SQLite).
 ### Real-Time Calculation:
 Instant balance updates with every transaction.
 
-```
